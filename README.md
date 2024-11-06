@@ -5,6 +5,7 @@
 ## Funcionalidades
 
 - Adicionar, editar e excluir transações de receitas e despesas.
+- Gerar relatórios em PDF das transações usando **jsPDF**.
 - Visualizar o saldo atual e o histórico de transações.
 - Responsivo para diferentes tamanhos de tela.
 
@@ -13,5 +14,6 @@
 - **Svelte**: Framework utilizado para o desenvolvimento do frontend.
 - **Bootstrap**: Framework CSS para garantir um layout responsivo e moderno.
 - **LocalStorage**: Para salvar os dados de transações localmente no navegador.
+- **jsPDF**: Biblioteca para geração de arquivos PDF com as transações.
 
 ![Captura de tela_6-11-2024_131544_marysql github io](https://github.com/user-attachments/assets/50a84d34-5ad2-4ef0-9600-6f5d589aa086)
